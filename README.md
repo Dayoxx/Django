@@ -17,6 +17,6 @@
 - Comprehensive error handling
 - Temperature display in Fahrenheit
 
-The README is structured to help users understand what your app does, how to install and run it, and how to contribute to the project. You can save this as `README.md` in your project repository.
+The README is structured to help users understand what the app does, how to install and run it, and how to contribute to the project.
 
 Is there anything specific you'd like me to add or modify in the README?
